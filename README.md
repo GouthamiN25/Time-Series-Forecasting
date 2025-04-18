@@ -1,6 +1,6 @@
 ## Risk Analysis Project 
 
-## Statistical Risk Evaluation and Forecasting**
+## Statistical Risk Evaluation and Forecasting
 
 This project aims to conduct a thorough risk analysis using statistical and financial metrics. 
 The Jupyter Notebook (Risk_Analysis_Project.ipynb) explores key financial risk metrics such as Value at Risk (VaR), Conditional Value at Risk (CVaR), and other volatility measures. By employing statistical models like ARIMA, the project also forecasts future risk and volatility, providing insights into potential financial losses and helping decision-makers understand their exposure to risk.
