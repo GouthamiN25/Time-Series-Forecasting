@@ -1,4 +1,4 @@
-## Time Series Forecasring  
+## Time Series Forecasting  
 
 ## Statistical Risk Evaluation and Forecasting
 
