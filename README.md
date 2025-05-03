@@ -1,5 +1,8 @@
 ## Time Series Forecasting  
 
+![7807104_1578230927_time_analysis_tittle-banner (1)](https://github.com/user-attachments/assets/9611ab2a-8f66-4b64-bc89-685af4113aae)
+
+
 ## Statistical Risk Evaluation and Forecasting
 
 This project aims to conduct a thorough risk analysis using statistical and financial metrics. 
