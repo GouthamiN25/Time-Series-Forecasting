@@ -46,6 +46,9 @@ The notebook summarizes financial data through means, standard deviations, and o
 
 Dependencies:
 
+
+
+
 Python 3.x
 pandas
 numpy
