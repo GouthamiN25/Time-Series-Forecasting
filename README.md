@@ -45,10 +45,6 @@ Summary Statistics:
 The notebook summarizes financial data through means, standard deviations, and other descriptive statistics that help in understanding the overall risk environment.
 
 Dependencies:
-
-
-
-
 Python 3.x
 pandas
 numpy
