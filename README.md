@@ -10,12 +10,12 @@ The Jupyter Notebook (Risk_Analysis_Project.ipynb) explores key financial risk m
 
 ## Key Features:
 
-## Risk Metrics Calculation:
+# Risk Metrics Calculation:
 
 Value at Risk (VaR): Computes the maximum potential loss within a given confidence level (e.g., 95%, 99%) over a set time frame.
 Conditional Value at Risk (CVaR): Measures the expected loss beyond the VaR, offering a deeper insight into extreme risks (tail risk).
 
-## Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 
 Visualization of data trends using line plots, scatter plots, and other statistical representations to better understand underlying data patterns.
 Statistical summaries such as mean, standard deviation, and distribution of returns.
